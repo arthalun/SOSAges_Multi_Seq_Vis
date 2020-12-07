@@ -2,7 +2,7 @@ SOSAges_Multi_Seq_Vis
 =====================
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/shervinazadi/SOSAges_Multi_Seq_Vis/master
+   :target: https://mybinder.org/v2/gh/arthalun/SOSAges_Multi_Seq_Vis/master
    :alt: Launch on Binder
 
 
