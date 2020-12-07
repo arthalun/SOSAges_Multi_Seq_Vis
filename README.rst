@@ -9,7 +9,6 @@ SOSAges_Multi_Seq_Vis
 A simple Python package with automatic documentation
 
 
-
 Credits
 -------
 
